@@ -1,5 +1,5 @@
-##Projects :computer::
+## Projects :computer::
 N/A
 
-##Publicataions ✍️:
+## Publicataions ✍️:
 N/A
