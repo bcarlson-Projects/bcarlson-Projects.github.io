@@ -1,9 +1,10 @@
 ## [About me 👋](aboutme.md)
 
 ## Projects :computer::
-N/A
+Basic Interactive Calculator in Python [In Progress]
+Reverse Shell Payload in C++ [In Progress]
 
 ## Publicataions ✍️:
-N/A
+Senior Thesis [In Progress]
 
 
