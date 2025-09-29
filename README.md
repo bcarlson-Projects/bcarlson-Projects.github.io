@@ -10,3 +10,4 @@ Malware Analysis #1\
 Image Analysis #1
 
 
+<a href="https://bcarlson-projects.github.io/">bcarlson-Projects.github.io</a> © 2025 is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
