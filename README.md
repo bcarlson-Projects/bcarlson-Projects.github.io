@@ -6,6 +6,7 @@ Reverse Shell Payload in C++ [In Progress]
 
 ## Publicataions ✍️:
 Senior Thesis [In Progress]\
-Malware Analysis #1
+Malware Analysis #1\
+Image Analysis #1
 
 
