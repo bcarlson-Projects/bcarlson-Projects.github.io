@@ -5,7 +5,7 @@ Basic Interactive Calculator in Python [In Progress]\
 Reverse Shell Payload in C++ [In Progress]
 
 ## Publicataions ✍️:
-Blog\
+[Blog](_posts/landingpage.md)\
 Malware Analysis\
 Image Analysis
 
